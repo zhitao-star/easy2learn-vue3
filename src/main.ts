@@ -15,7 +15,7 @@ import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 import 'element-plus/theme-chalk/dark/css-vars.css'
 //引入路由
 import router from './router'
-import '@/styles/style.css'
+// import '@/styles/style.css'
 //获取应用实例对象
 const app = createApp(App)
 //安装element-plus插件
